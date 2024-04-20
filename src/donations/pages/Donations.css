@@ -1,0 +1,19 @@
+.donations-content{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.donations-content h1{
+    color: #0F0E5B;
+}
+
+.title{
+    display: flex;
+    justify-content: left;
+    width:70%
+}
+
+.table{
+    width: 100%;
+}

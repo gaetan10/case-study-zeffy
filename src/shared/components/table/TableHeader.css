@@ -1,0 +1,11 @@
+.donation-table-head{
+    background-color: #f2f2f2;
+}
+
+.donation-table-head th {
+    text-align: left; 
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #5555e7;
+    padding: 10px;
+}
