@@ -4,7 +4,7 @@ In this app, you can access a page:
 - on which you see a list of donations (fetched from a backend endpoint)
 - the list is paginated to request 20 donations at a time
 - you can see screenshots attached in the screenshot folder
-- you need to run this backend application at the same time to see the donations: 
+- you need to run this backend application at the same time to see the donations: https://github.com/gaetan10/case-study-zeffy-backend
 
 
 # Getting Started with Create React App
