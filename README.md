@@ -1,3 +1,11 @@
+# Content of the application 
+
+In this app, you can access a page:
+- on which you see a list of donations (fetched from a backend endpoint)
+- the list is paginated to request 20 donations at a time
+- you can see screenshots attached in the screenshot folder
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
